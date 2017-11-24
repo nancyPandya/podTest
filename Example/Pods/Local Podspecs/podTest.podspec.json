@@ -1,0 +1,22 @@
+{
+  "name": "podTest",
+  "version": "0.1.0",
+  "summary": "A short description of podTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nancyPandya/podTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nancyPandya": "nancy.letsnurture@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/nancyPandya/podTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "podTest/Classes/**/*"
+}

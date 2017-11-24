@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'podTest'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of podTest.'
+  s.summary          = 'A Test Demo'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -19,6 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
+ A Test Demo to test demo
                        DESC
 
   s.homepage         = 'https://github.com/nancyPandya/podTest'
@@ -36,7 +37,4 @@ TODO: Add long description of the pod here.
   #   'podTest' => ['podTest/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end
